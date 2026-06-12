@@ -26,7 +26,7 @@ Sistem login terintegrasi untuk sinkronisasi data favorit berdasarkan email peng
 
 Implementasi **ViewBinding** untuk interaksi antarmuka yang lebih cepat, aman, dan mudah dikelola.
 
-### 🛠️ Modern Tech Stack
+### Modern Tech Stack
 
 Menggunakan **Material Design 3** dan pustaka pemrosesan gambar **Coil** untuk tampilan yang modern dan performa optimal.
 
@@ -60,31 +60,7 @@ app/src/main/java/com/example/
 
 ---
 
-## 📝 Aturan Penulisan Commit (Semantic Commit)
-
-Proyek ini mewajibkan penggunaan **Semantic Commit Messages** untuk menjaga riwayat perubahan yang rapi dan mudah dibaca, sesuai dengan standar CodePolitan.
-
-Format commit yang digunakan:
-
-```plaintext
-<type>(<scope>): <subject>
-```
-
-### Jenis Commit
-
-| Type     | Penjelasan                                           | Contoh                                                   |
-| -------- | ---------------------------------------------------- | -------------------------------------------------------- |
-| feat     | Menambah fitur baru                                  | `feat(fav): add toggle favorite functionality`           |
-| fix      | Memperbaiki bug                                      | `fix(player): resolve crash when skipping tracks`        |
-| docs     | Perubahan dokumentasi                                | `docs(readme): add semantic commit guide`                |
-| style    | Perapian kode (formatting, missing semi-colons)      | `style(adapter): cleanup unused imports`                 |
-| refactor | Perubahan kode yang bukan fitur maupun perbaikan bug | `refactor(db): use ExecutorService for background tasks` |
-| chore    | Update build task, package manager, library          | `chore(deps): bump coil version to 2.7.0`                |
-| test     | Menambah atau mengubah unit test                     | `test(auth): add login validation test`                  |
-
----
-
-## ⚙️ Cara Menjalankan
+## Cara Menjalankan
 
 ### 1. Clone Repository
 
@@ -130,7 +106,7 @@ git push origin feat/fitur-keren
 
 <div align="center">
 
-### 🎵 Melodial
+### Melodial
 
 *Semester 4 Mobile Development Project*
 
