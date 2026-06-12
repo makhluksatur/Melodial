@@ -1,28 +1,28 @@
-# 🎵 Melodial
+# Melodial
 
 **Melodial** adalah aplikasi pemutar musik Android yang mengintegrasikan fitur streaming dan manajemen musik lokal. Aplikasi ini dirancang dengan arsitektur yang efisien menggunakan sistem **background processing** untuk memastikan pengalaman pengguna yang lancar (*smooth*).
 
 ---
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 
-### ⭐ Sistem Favorit Offline
+### Sistem Favorit Offline
 
 Menyimpan lagu favorit ke database lokal menggunakan **SQLite/Room** sehingga tetap dapat diakses tanpa koneksi internet.
 
-### 🎶 Manajemen Playlist
+### Manajemen Playlist
 
 Menambahkan lagu ke dalam daftar putar (*playlist*) kustom sesuai kebutuhan pengguna.
 
-### ⚡ Async Database Operations
+### Async Database Operations
 
 Menggunakan **ExecutorService** untuk menjalankan operasi database di *background thread* sehingga menghindari *UI lag* atau *freeze*.
 
-### 👤 Manajemen User
+### Manajemen User
 
 Sistem login terintegrasi untuk sinkronisasi data favorit berdasarkan email pengguna.
 
-### 📱 UI Responsif
+### UI Responsif
 
 Implementasi **ViewBinding** untuk interaksi antarmuka yang lebih cepat, aman, dan mudah dikelola.
 
@@ -32,7 +32,7 @@ Menggunakan **Material Design 3** dan pustaka pemrosesan gambar **Coil** untuk t
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Teknologi             | Keterangan                                                    |
 | --------------------- | ------------------------------------------------------------- |
@@ -46,7 +46,7 @@ Menggunakan **Material Design 3** dan pustaka pemrosesan gambar **Coil** untuk t
 
 ---
 
-## 📂 Struktur Proyek
+## Struktur Proyek
 
 ```plaintext
 app/src/main/java/com/example/
@@ -106,7 +106,7 @@ Gunakan emulator atau perangkat Android dengan **minimum API Level 24**.
 
 ---
 
-## 🤝 Kontribusi
+## Kontribusi
 
 Jika Anda ingin berkontribusi:
 
@@ -125,12 +125,6 @@ git push origin feat/fitur-keren
 ```
 
 5. Buat Pull Request.
-
----
-
-## 📄 Lisensi
-
-Proyek ini menggunakan lisensi **MIT License**. Silakan lihat file **LICENSE** untuk informasi lebih lanjut.
 
 ---
 
