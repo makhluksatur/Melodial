@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Accent Colors -->
+    <color name="primary">#FF2D55</color> <!-- Apple Music Pink -->
+    <color name="primary_light">#FF6380</color>
+    <color name="primary_dark">#D81B43</color>
+    <color name="spotify_green">#1DB954</color>
+    
+    <!-- Base Color Palette -->
+    <color name="black">#212121</color>
+    <color name="white">#FFFFFF</color>
+    
+    <!-- Neutral Light -->
+    <color name="background_light">#F5F5FA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_primary_light">#1C1C1E</color>
+    <color name="text_secondary_light">#6E6E73</color>
+    <color name="divider_light">#E5E5EA</color>
+
+    <!-- Neutral Dark -->
+    <color name="background_dark">#0A0A0C</color> <!-- Velvet deep black -->
+    <color name="surface_dark">#121216</color> <!-- Glassmorphic solid card bg -->
+    <color name="text_primary_dark">#FFFFFF</color>
+    <color name="text_secondary_dark">#8E8E93</color>
+    <color name="divider_dark">#2C2C2E</color>
+    
+    <!-- Bento Custom Colors -->
+    <color name="bento_teal">#30D5C8</color>
+    <color name="bento_orange">#FF9500</color>
+    <color name="bento_purple">#AF52DE</color>
+</resources>
